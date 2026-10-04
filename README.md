@@ -2,7 +2,9 @@
 
 A Trello-style Kanban board where teams manage lists and cards together and see every change live. It includes authentication, role-based board membership, card drag-and-drop, comments, an activity feed, and live presence.
 
-**Live demo:** [add link after deploying]
+**Live demo:** https://project-board-omega.vercel.app
+
+The backend runs on a free tier, so the first request after a period of inactivity can take up to a minute.
 
 ## Features
 
